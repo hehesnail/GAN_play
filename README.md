@@ -1,5 +1,5 @@
 # GAN_play
-Implementation of common GANs
+Implementation of common GANs  
 dcgan: The commonly dcgan architecture  
 dcls: DCGAN with least square loss  
 wgan_gp: DCGAN with wasserstein loss and gradient penalty  
