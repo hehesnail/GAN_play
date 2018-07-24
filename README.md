@@ -1,5 +1,5 @@
 # GAN_play
-Implementation of common GANs  
+Implementation of common GANs, test on cifar10 dataset.    
 ## dcgan 
 The common dcgan architecture  
 ## dcls 
